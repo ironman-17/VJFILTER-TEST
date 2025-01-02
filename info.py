@@ -179,8 +179,8 @@ DIRECT_GEN_URL = os.environ.get("DIRECT_GEN_URL", "https://web-ikkst7anqzvo.up-d
 DIRECT_GEN = bool(DIRECT_GEN_DB and DIRECT_GEN_URL)
 
 POST_MODE= bool(environ.get('POST_MODE', True))
-POST_SHORT_API = environ.get('POST_SHORT_API', 'cd8531f15046b37126cc9b9edb86456dde10db5a')
-POST_SHORT_URL = environ.get('POST_SHORT_URL', '')
+POST_SHORT_API = environ.get('POST_SHORT_API', 'bcb93413e5dd9aaf092ab03269420e6f928aae2c')
+POST_SHORT_URL = environ.get('POST_SHORT_URL', 'publicearn.com')
 
 HOW_TO_POST_SHORT = environ.get('HOW_TO_POST_SHORT', 'https://t.me/How_To_Get_Movie')
 
